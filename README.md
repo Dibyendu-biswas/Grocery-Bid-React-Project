@@ -1,4 +1,4 @@
-<h1>Project -React-grocery-Reminder-Project</h1>
+<h1>Project -React-Grocery-Reminder-Project</h1>
 <img src='\src\assets\img.png'/>
 
 <h2>Project Details :</h2>
