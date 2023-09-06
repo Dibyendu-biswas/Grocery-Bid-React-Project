@@ -1,5 +1,5 @@
 <h1>Project -React-Grocery-Reminder-Project</h1>
-<img src='\src\assets\img.png'/>
+<img src='\src\assets\grocery.png'/>
 
 <h2>Project Details :</h2>
 <p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript .i use React as a framework </p>
